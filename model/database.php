@@ -1,9 +1,9 @@
 <?php
 class Database {
     // Heroku connection:
-    private static $dsn = 'mysql:host=z5zm8hebixwywy9d.cbetxkdyhwsb.us-east-1.rds.amazonaws.com; dbname=q5eb1vj9faharoe4';
-    private static $username = 'qt34l1n36ohrcfn6';
-    private static $password = 'rbqy5g1b3879gv4e';
+    private static $dsn = 'wcwimj6zu5aaddlj.cbetxkdyhwsb.us-east-1.rds.amazonaws.com';
+    private static $username = 'jmqo0tnlxl6jifjr';
+    private static $password = 'dykvocu437rjbd4m';
     private static $db;
     
     // (local development server connection):
